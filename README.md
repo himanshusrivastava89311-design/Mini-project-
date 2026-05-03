@@ -61,3 +61,4 @@ print("total close_Count",closed_Count)
 📊 Displays:
 Total number of times lock opened
 Total number of times lock denied
+<img width="1080" height="1245" alt="17777858875217392097370847764493" src="https://github.com/user-attachments/assets/4dacdd79-94fa-48ef-ae1b-7dc0c9399ce3" />
