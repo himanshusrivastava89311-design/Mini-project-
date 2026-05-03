@@ -8,3 +8,4 @@ Problem- Sometimes unknown also get the key or password from somewhere and the t
 and if the owner not allowed it show invalid and click the picture of it also
 .It also help to know how many times locker will open and how many times try to.open but not get open
 .It wil reduce theft
+
