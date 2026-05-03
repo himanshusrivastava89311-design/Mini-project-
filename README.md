@@ -9,4 +9,5 @@ and if the owner not allowed it show invalid and click the picture of it also
 .It also help to know how many times locker will open and how many times try to.open but not get open
 .It wil reduce theft
 
+<img width="1060" height="1248" alt="17778129559294743582387720512713" src="https://github.com/user-attachments/assets/9e676d1d-b263-432c-962a-f3e7f6083adb" />
 
